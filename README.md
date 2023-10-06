@@ -42,6 +42,7 @@ JSON         3 mins          ▒░░░░░░░░░░░░░░░░
 ✅  Completed 673 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
+<img width="1428" alt="image" src="https://github.com/uconcreative/githubpage/assets/125944671/7c46b75d-d068-4707-972e-0b2565eb525c">
 
 
 📈 my github stats
