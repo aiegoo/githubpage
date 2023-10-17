@@ -31,12 +31,17 @@ a {
   color:#ffd84c;}
 a:hover {
   text-decoration:underline; }
-
+/******** media query for content container */
 @media screen and (max-width: 768px) {
     .content {
         width: 100%;
     }
 }
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+ }
 
 /************************ Main Structure */
 #contentWrapper {
