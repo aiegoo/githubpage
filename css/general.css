@@ -32,7 +32,11 @@ a {
 a:hover {
   text-decoration:underline; }
 
-
+@media screen and (max-width: 768px) {
+    .content {
+        width: 100%;
+    }
+}
 
 /************************ Main Structure */
 #contentWrapper {
