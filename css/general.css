@@ -32,7 +32,7 @@ a {
 a:hover {
   text-decoration:underline; }
 /******** media query for content container */
-@media screen and (max-width: 768px) {
+@media only screen and (min-width: 480px) and (max-width: 768px) {
     .content {
         width: 100%;
     }
